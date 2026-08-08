@@ -1,0 +1,13 @@
+Gitlog - é um comando que exibe o histórico de commits de um repositório.
+
+Exemplo:
+
+git log
+
+Para exibir o histórico de commits de um arquivo específico:
+
+git log nome_do_arquivo
+
+Para exibir o histórico de commits de todos os arquivos:
+
+git log .+

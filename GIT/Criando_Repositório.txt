@@ -10,3 +10,10 @@ Exemplo: git add nome_do_arquivo
 Ou enviar todos os arquivos para o controle de versão:
 
 GIT ADD .
+
+PARA ENVIAR PARA O REPOSITÓRIO:
+usar o comando git push origin master
+
+Git Pull - Atualiza o repositório remoto com o repositório local.
+
+Git Push - Envia o repositório local para o repositório remoto.

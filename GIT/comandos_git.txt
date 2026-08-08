@@ -1,0 +1,21 @@
+Neste arquivo vamos aprender os comandos básicos do git.
+
+Comando para criar um repositório: GIT INIT
+- GIT STATUS - Mostra o que está sendo controlado pelo git
+- GIT ADD - Adiciona arquivos ao controle de versão
+Exemplo: git add nome_do_arquivo
+OU enviar todos os arquivos para o controle de versão:
+GIT ADD .
+Para commit em todos os arquivos:
+git add .
+git commit -m "Adicionando arquivo"
+
+Para commit em um arquivo específico:
+git add nome_do_arquivo
+git commit -m "Adicionando arquivo"
+
+Para enviar para o repositório remoto:
+git push origin master
+
+Para atualizar o repositório remoto com o repositório local:
+git pull origin master      
