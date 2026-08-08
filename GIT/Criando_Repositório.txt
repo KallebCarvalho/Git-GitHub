@@ -1,3 +1,12 @@
 Iniciando um repositório (Repo)
 
 Comando para criar um repositório: GIT INIT
+
+- GIT STATUS - Mostra o que está sendo controlado pelo git
+
+- GIT ADD - Adiciona arquivos ao controle de versão
+Exemplo: git add nome_do_arquivo
+
+Ou enviar todos os arquivos para o controle de versão:
+
+GIT ADD .

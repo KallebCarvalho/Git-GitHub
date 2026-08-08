@@ -1,0 +1,19 @@
+Aprender a fazer commits
+
+Commits são uma forma de salvar as alterações feitas no repositório.
+
+Exemplo:
+
+git commit -m "Adicionando arquivo"
+
+-m é para inserir uma mensagem.
+
+PARA COMMIT em um arquivo específico:
+
+git add nome_do_arquivo
+git commit -m "Adicionando arquivo"
+
+Para commit em todos os arquivos:
+
+git add .
+git commit -m "Adicionando arquivo"
