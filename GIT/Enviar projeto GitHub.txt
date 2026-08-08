@@ -1,0 +1,24 @@
+Apredendo a enviar um projeto para o GitHub
+
+- Criar um repositório no GitHub.
+- Adicionar um arquivo no repositório.
+- Adicionar um arquivo na pasta .git.
+
+Para adicionar um arquivo na pasta .git:
+
+git add .git
+
+Para adicionar um arquivo no repositório:
+
+git add nome_do_arquivo (exemplo: git add README.md)
+
+Para adicionar todos os arquivos no repositório:
+
+git add .
+
+Para enviar o projeto para o GitHub:    
+
+git push origin master  
+
+- origin é o nome do repositório.
+- master é a branch principal.  
