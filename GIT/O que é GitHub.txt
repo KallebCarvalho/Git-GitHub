@@ -1,0 +1,5 @@
+O que é GitHub?
+
+- É um serviço de hospedagem de repositórios de código aberto.
+- Acesso a repositórios de código aberto remotamente.
+- Uma rede social para desenvolvedores.

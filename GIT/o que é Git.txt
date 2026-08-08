@@ -1,0 +1,13 @@
+O que é git?
+
+É um software de controle de versão.
+Versionamento de código.
+É uma ferramenta de controle de versão de código.
+- Controla o histórico de alterações de código.
+- Trabalhar em conjunto com outros desenvolvedores.
+- Acesso a logs detalhados de alterações, quando foi criado, quem fez a alteração e porque.
+- É uma ferramenta de colaboração.
+
+Para saber o nome e o e-mail do autor, execute:
+git config --global user.name "Nome"
+git config --global user.email "email@email.com"

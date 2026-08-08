@@ -1,0 +1,3 @@
+Iniciando um repositório (Repo)
+
+Comando para criar um repositório: GIT INIT

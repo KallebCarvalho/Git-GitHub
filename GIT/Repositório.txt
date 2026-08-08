@@ -1,0 +1,3 @@
+O que é um repositório?
+
+- É onde os arquivos de código são armazenados. Assim como os projetos no GitHub.
