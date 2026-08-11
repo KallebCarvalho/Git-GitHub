@@ -1,0 +1,9 @@
+Branches - É uma maneira  que o git disponibiliza para  separar versões do projeto.
+Ou seja, gerenciar melhor  o projeto.
+
+Main Branch - É a branch principal do projeto.
+
+Branches - É um conjunto de ramificações do projeto.
+Merge - É a operação que junta duas ramificações.
+
+// O comando para visualizar as branche é: GIT BRANCH
