@@ -7,3 +7,6 @@ Branches - É um conjunto de ramificações do projeto.
 Merge - É a operação que junta duas ramificações.
 
 // O comando para visualizar as branche é: GIT BRANCH
+
+// Para criar um nova BRANCH basta digitar: GIT BRANCH NOME_DA_NOVA_BRANCH
+
