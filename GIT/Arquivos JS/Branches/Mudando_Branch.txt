@@ -1,0 +1,5 @@
+// Para mudar de branch basta digitar: GIT CHECKOUT NOME_DA_BRANCH
+Antes de mudar de branch, é importante fazer um commit.
+Verificar o status do projeto: GIT STATUS
+Subir para o repositório: GIT PUSH
+E só depois fazer a trocar de branch: GIT CHECKOUT NOME_DA_BRANCH
