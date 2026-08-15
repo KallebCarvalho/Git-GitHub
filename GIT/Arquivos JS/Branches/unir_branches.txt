@@ -1,0 +1,7 @@
+//Unindo Branches
+
+//Comando para unir duas branches
+git merge <nome_da_branch>
+
+//Exemplo
+git merge master
