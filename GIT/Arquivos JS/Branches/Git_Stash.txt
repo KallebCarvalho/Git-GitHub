@@ -1,0 +1,8 @@
+git stash
+
+//Comando para salvar as alterações feitas na branch atual  
+
+//Exemplo
+git stash   
+
+//Comando para listar as stashes salvas
