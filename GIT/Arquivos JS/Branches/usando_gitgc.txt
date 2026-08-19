@@ -1,0 +1,2 @@
+Apredendo a usar o git gc, você pode remover arquivos desnecessários do seu repositório.
+O git gc é um comando que remove automaticamente arquivos desnecessários do seu repositório.
