@@ -1,0 +1,8 @@
+Nesta etapa vamos aprender a enviar uma tag para o repositório.
+
+Para isso, vamos usar o comando git push
+GIT PUSH     
+
+Exemplo:
+
+git push origin v1.0
