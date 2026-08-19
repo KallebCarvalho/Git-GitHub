@@ -1,0 +1,13 @@
+Nesta etapa vamos aprender a analisar as tags que já foram criadas.
+
+Para isso, vamos usar o comando git show
+GIT TAG visão geral
+GIT SHOW tag_name
+
+Exemplo:
+
+git show v1.0
+
+Ou
+
+git show v1.0.0
