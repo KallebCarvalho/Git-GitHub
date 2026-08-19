@@ -1,2 +1,5 @@
 Apredendo a usar o git gc, você pode remover arquivos desnecessários do seu repositório.
 O git gc é um comando que remove automaticamente arquivos desnecessários do seu repositório.
+
+GIT SHORTLOG
+Git shortlog é um comando que exibe uma lista de commits de um repositório, organizado por autor e por data.
